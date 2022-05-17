@@ -14196,11 +14196,6 @@ fast-levenshtein@^2.0.6, fast-levenshtein@~2.0.6:
   resolved "https://registry.yarnpkg.com/fast-levenshtein/-/fast-levenshtein-2.0.6.tgz#3d8a5c66883a16a30ca8643e851f19baa7797917"
   integrity sha1-PYpcZog6FqMMqGQ+hR8Zuqd5eRc=
 
-fast-memoize@^2.5.1:
-  version "2.5.1"
-  resolved "https://registry.yarnpkg.com/fast-memoize/-/fast-memoize-2.5.1.tgz#c3519241e80552ce395e1a32dcdde8d1fd680f5d"
-  integrity sha512-xdmw296PCL01tMOXx9mdJSmWY29jQgxyuZdq0rEHMu+Tpe1eOEtCycoG6chzlcrWsNgpZP7oL8RiQr7+G6Bl6g==
-
 fast-redact@^3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/fast-redact/-/fast-redact-3.0.0.tgz#ac2f9e36c9f4976f5db9fb18c6ffbaf308cf316d"
@@ -23447,12 +23442,10 @@ re-reselect@^3.4.0:
   resolved "https://registry.yarnpkg.com/re-reselect/-/re-reselect-3.4.0.tgz#0f2303f3c84394f57f0cd31fea08a1ca4840a7cd"
   integrity sha512-JsecfN+JlckncVXTWFWjn0Vk6uInl8GSf4eEd9tTk5qXHlgqkPdILpnYpgZcISXNYAzvfvsCZviaDk8AxyS5sg==
 
-re-resizable@^6.1.1:
-  version "6.1.1"
-  resolved "https://registry.yarnpkg.com/re-resizable/-/re-resizable-6.1.1.tgz#7ff7cfe92c0b9d8b0bceaa578aadaeeff8931eaf"
-  integrity sha512-ngzX5xbXi9LlIghJUYZaBDkJUIMLYqO3tQ2cJZoNprCRGhfHnbyufKm51MZRIOBlLigLzPPFKBxQE8ZLezKGfA==
-  dependencies:
-    fast-memoize "^2.5.1"
+re-resizable@^6.9.8:
+  version "6.9.9"
+  resolved "https://registry.yarnpkg.com/re-resizable/-/re-resizable-6.9.9.tgz#99e8b31c67a62115dc9c5394b7e55892265be216"
+  integrity sha512-l+MBlKZffv/SicxDySKEEh42hR6m5bAHfNu3Tvxks2c4Ah+ldnWjfnVRwxo/nxF27SsUsxDS0raAzFuJNKABXA==
 
 re2@1.17.4:
   version "1.17.4"
